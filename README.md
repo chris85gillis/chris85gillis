@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile
-
 ![Welcome](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20User)
 
 Here you can find my projects, contributions, and more about my work.
